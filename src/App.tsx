@@ -83,7 +83,7 @@ function App() {
   }, [conversionState.pdfUrl, conversionState.fileName])
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50">
+    <div className="min-h-screen bg-gradient-to-br from-pink-200 via-pink-100 to-pink-300">
       <div className="container mx-auto px-4 py-8">
         <div className="max-w-2xl mx-auto">
           <div className="text-center mb-8">
